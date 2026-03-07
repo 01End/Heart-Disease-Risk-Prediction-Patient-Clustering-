@@ -6,7 +6,7 @@ End-to-end machine learning pipeline for cardiovascular disease prediction and p
 
 ## Demo
 
-![App Showcase](Heart_Disease_Risk_Prediction___Patient_Clustering_app_showcase.gif)
+![App Showcase](Heart%20Disease%20Risk%20Prediction%20%26%20Patient%20Clustering%20app%20showcase.gif)
 
 ---
 
